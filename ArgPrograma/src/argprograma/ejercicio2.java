@@ -10,6 +10,7 @@ public class ejercicio2 {
      
     public static void main(String[] args) {
         
+        //Prueba GIT
         //2)Determinar si una persona pertenece al segmento de ingresos altos.
         
         Scanner leer = new Scanner(System.in);
